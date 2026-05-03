@@ -402,7 +402,7 @@ function renderContentsSection() {
     let html = `
         <section id="contents">
             <div class="home-header">
-                <h1 class="home-title">TRY! N3</h1>
+                <h1 class="home-title">TRY! N4</h1>
                 <p class="home-subtitle">文法から伸ばす日本語</p>
                 <p class="translation-en">Learning Japanese from Grammar</p>
                 <p class="translation-id">Belajar Bahasa Jepang dari Tata Bahasa</p>
@@ -1444,7 +1444,7 @@ function showSection(sectionId) {
         
         const navTitle = document.getElementById('current-section-title');
         if (sectionId === 'contents') {
-            navTitle.textContent = 'TRY! N3';
+            navTitle.textContent = 'TRY! N4';
         } else if (sectionId === 'can-do-list') {
             navTitle.textContent = 'できることリスト';
         } else {
