@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<buku_try_n4>
+    <metadata>
+        <judul>TRY! N4文法から伸ばす日本語</judul>
+        <subjudul>日本語能力試験対策</subjudul>
+        <edisi>改訂版</edisi>
+    </metadata>
+
+	<!-- Daftar Isi Lengkap TRY! N4 - Pages 13-16 -->
+	<daftar_isi>
+		<pengantar>
+			<item id="hajimeni" halaman="3">
+				<judul_jp>はじめに</judul_jp>
+				<judul_en>Introduction</judul_en>
+				<judul_id>Pendahuluan</judul_id>
+			</item>
+			<item id="to_learners" halaman="4">
+				<judul_jp>この本をお使いになるみなさんへ</judul_jp>
+				<judul_en>To Learners Using this Book</judul_en>
+				<judul_id>Kepada Para Pembelajar yang Menggunakan Buku Ini</judul_id>
+			</item>
+			<item id="to_teachers" halaman="10">
+				<judul_jp>この本をお使いになる先生方へ</judul_jp>
+				<judul_en>To Teachers Using this Book</judul_en>
+				<judul_id>Kepada Para Guru yang Menggunakan Buku Ini</judul_id>
+			</item>
+			<item id="people" halaman="11">
+				<judul_jp>この本に出てくる人</judul_jp>
+				<judul_en>The People in this Book</judul_en>
+				<judul_id>Orang-Orang dalam Buku Ini</judul_id>
+			</item>
+		</pengantar>
+
+		<!-- BAB 1 - Page 16 -->
+		<bab id="1" halaman="16">
+			<kategori>あいさつの言葉</kategori>
+			<kategori_en>Greeting vocabulary</kategori_en>
+			<kategori_id>Kosakata Sapaan</kategori_id>
+			<nomor>1</nomor>
+			<judul_jp>あいさつの言葉</judul_jp>
+			<judul_en>Greeting vocabulary</judul_en>
+			<judul_id>Kosakata Sapaan</judul_id>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 2 (1) - Page 18 -->
+		<bab id="2" halaman="18">
+			<kategori>おかし作り</kategori>
+			<kategori_en>Making sweets</kategori_en>
+			<kategori_id>Membuat Kue</kategori_id>
+			<nomor>2</nomor>
+			<judul_jp>おかし作り（１）</judul_jp>
+			<judul_en>Making sweets (1)</judul_en>
+			<judul_id>Membuat Kue (1)</judul_id>
+			<grammar_points>
+				<point id="1" halaman="18">食べてみてください</point>
+				<point id="2" halaman="19">おいしそうですね</point>
+				<point id="3" halaman="21">作ったんですか</point>
+				<point id="4" halaman="22">作り方</point>
+				<point id="5" halaman="23">作り方を習ったので</point>
+				<point id="6" halaman="24">作ることができる</point>
+				<point id="7" halaman="25">おいしいかどうか</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 2 (2) - Page 26 -->
+		<bab id="3" halaman="26">
+			<kategori>おかし作り</kategori>
+			<kategori_en>Making sweets</kategori_en>
+			<kategori_id>Membuat Kue</kategori_id>
+			<nomor>3</nomor>
+			<judul_jp>おかし作り（２）</judul_jp>
+			<judul_en>Making sweets (2)</judul_en>
+			<judul_id>Membuat Kue (2)</judul_id>
+			<grammar_points>
+				<point id="8" halaman="26">このフルーツソースをかけて</point>
+				<point id="9" halaman="27">かわをむかないで</point>
+				<point id="10" halaman="28">全部食べてしまった</point>
+				<point id="11" halaman="29">時間があったら</point>
+				<point id="12" halaman="31">かんたんに作れます</point>
+			</grammar_points>
+			<matome halaman="34"/>
+		</bab>
+
+		<!-- BAB 3 (1) - Page 36 -->
+		<bab id="4" halaman="36">
+			<kategori>けっこん式</kategori>
+			<kategori_en>A wedding</kategori_en>
+			<kategori_id>Upacara Pernikahan</kategori_id>
+			<nomor>4</nomor>
+			<judul_jp>けっこん式（１）</judul_jp>
+			<judul_en>A wedding (1)</judul_en>
+			<judul_id>Upacara Pernikahan (1)</judul_id>
+			<grammar_points>
+				<point id="13" halaman="37">名前という意味です</point>
+				<point id="14" halaman="38">けっこん式にしょうたいされた</point>
+				<point id="15" halaman="39">けっこん式は6月なのに</point>
+				<point id="16" halaman="40">席を決めなければなりません + Plus ～なくてはならない／いけない</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 3 (2) - Page 42 -->
+		<bab id="5" halaman="42">
+			<kategori>けっこん式</kategori>
+			<kategori_en>A wedding</kategori_en>
+			<kategori_id>Upacara Pernikahan</kategori_id>
+			<nomor>5</nomor>
+			<judul_jp>けっこん式（２）</judul_jp>
+			<judul_en>A wedding (2)</judul_en>
+			<judul_id>Upacara Pernikahan (2)</judul_id>
+			<grammar_points>
+				<point id="17" halaman="43">だれが参加してもいい</point>
+				<point id="18" halaman="44">どんなものをあげるんですか + Plus ～てあげる</point>
+				<point id="19" halaman="45">あげなくてもいい</point>
+				<point id="20" halaman="46">あげたほうがいい</point>
+				<point id="21" halaman="47">あげることにします</point>
+			</grammar_points>
+			<matome halaman="48"/>
+		</bab>
+
+		<!-- BAB 4 (1) - Page 50 -->
+		<bab id="6" halaman="50">
+			<kategori>私の町ハノイ</kategori>
+			<kategori_en>I'm from Hanoi</kategori_en>
+			<kategori_id>Kotaku, Hanoi</kategori_id>
+			<nomor>6</nomor>
+			<judul_jp>私の町ハノイ（１）</judul_jp>
+			<judul_en>I'm from Hanoi (1)</judul_en>
+			<judul_id>Kotaku, Hanoi (1)</judul_id>
+			<grammar_points>
+				<point id="22" halaman="50">行ったことがありますか</point>
+				<point id="23" halaman="51">どんなところか知っていますか</point>
+				<point id="24" halaman="52">7月になると</point>
+				<point id="25" halaman="53">ハノイは東京よりずっと小さいです</point>
+				<point id="26" halaman="54">その湖のまわり</point>
+				<point id="27" halaman="55">散歩するのが好きです</point>
+				<point id="28" halaman="58">歩くのに1時間かかりません</point>
+				<point id="29" halaman="59">かめがかざられています</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 4 (2) - Page 60 -->
+		<bab id="7" halaman="60">
+			<kategori>私の町ハノイ</kategori>
+			<kategori_en>I'm from Hanoi</kategori_en>
+			<kategori_id>Kotaku, Hanoi</kategori_id>
+			<nomor>7</nomor>
+			<judul_jp>私の町ハノイ（２）</judul_jp>
+			<judul_en>I'm from Hanoi (2)</judul_en>
+			<judul_id>Kotaku, Hanoi (2)</judul_id>
+			<grammar_points>
+				<point id="30" halaman="61">屋台がたくさん並んでいます</point>
+				<point id="31" halaman="62">いいにおいがします</point>
+				<point id="32" halaman="63">食べているところです</point>
+				<point id="33" halaman="64">おいしそうでしょう？</point>
+			</grammar_points>
+			<matome halaman="66"/>
+		</bab>
+
+		<!-- BAB 5 (1) - Page 68 -->
+		<bab id="8" halaman="68">
+			<kategori>ハイキングの計画</kategori>
+			<kategori_en>Hiking plans</kategori_en>
+			<kategori_id>Rencana Hiking</kategori_id>
+			<nomor>8</nomor>
+			<judul_jp>ハイキングの計画（１）</judul_jp>
+			<judul_en>Hiking plans (1)</judul_en>
+			<judul_id>Rencana Hiking (1)</judul_id>
+			<grammar_points>
+				<point id="34" halaman="69">始まったらしいです</point>
+				<point id="35" halaman="70">きれいだと言っていました</point>
+				<point id="36" halaman="70">連れていってもらいました + Plus ～をもらう</point>
+				<point id="37" halaman="72">疲れそうです</point>
+				<point id="38" halaman="73">ロープウェイを使えば</point>
+				<point id="39" halaman="75">道がわからなくなってしまった</point>
+				<point id="40" halaman="76">ガイドブックに書いてあります</point>
+				<point id="41" halaman="77">大丈夫でしょう</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 5 (2) - Page 79 -->
+		<bab id="9" halaman="79">
+			<kategori>ハイキングの計画</kategori>
+			<kategori_en>Hiking plans</kategori_en>
+			<kategori_id>Rencana Hiking</kategori_id>
+			<nomor>9</nomor>
+			<judul_jp>ハイキングの計画（２）</judul_jp>
+			<judul_en>Hiking plans (2)</judul_en>
+			<judul_id>Rencana Hiking (2)</judul_id>
+			<grammar_points>
+				<point id="42" halaman="79">調べておきます</point>
+				<point id="43" halaman="80">いい天気だといいですね + Plus ～たら／ばいい</point>
+				<point id="44" halaman="82">行きたい人がいるかもしれません</point>
+				<point id="45" halaman="83">行くことになりました</point>
+			</grammar_points>
+			<matome halaman="84"/>
+		</bab>
+
+		<!-- BAB 6 (1) - Page 86 -->
+		<bab id="10" halaman="86">
+			<kategori>木の上の子ねこ</kategori>
+			<kategori_en>A cat in the tree</kategori_en>
+			<kategori_id>Anak Kucing di Atas Pohon</kategori_id>
+			<nomor>10</nomor>
+			<judul_jp>木の上の子ねこ（１）</judul_jp>
+			<judul_en>A cat in the tree (1)</judul_en>
+			<judul_id>Anak Kucing di Atas Pohon (1)</judul_id>
+			<grammar_points>
+				<point id="46" halaman="87">どうしたの？</point>
+				<point id="47" halaman="87">赤くなっているようだ</point>
+				<point id="48" halaman="88">行ったほうがいいんじゃない？</point>
+				<point id="49" halaman="89">子ねこにかまれたんだ</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 6 (2) - Page 92 -->
+		<bab id="11" halaman="92">
+			<kategori>木の上の子ねこ</kategori>
+			<kategori_en>A cat in the tree</kategori_en>
+			<kategori_id>Anak Kucing di Atas Pohon</kategori_id>
+			<nomor>11</nomor>
+			<judul_jp>木の上の子ねこ（２）</judul_jp>
+			<judul_en>A cat in the tree (2)</judul_en>
+			<judul_id>Anak Kucing di Atas Pohon (2)</judul_id>
+			<grammar_points>
+				<point id="50" halaman="93">そのままにしておいた</point>
+				<point id="51" halaman="93">おちそうだった</point>
+				<point id="52" halaman="94">手をのばしても</point>
+				<point id="53" halaman="96">けがをしなくて、よかった</point>
+				<point id="54" halaman="98">やさしすぎる</point>
+				<point id="55" halaman="99">悪くならないように</point>
+				<point id="56" halaman="99">ちょっとかまれただけだし、もう痛くないし</point>
+			</grammar_points>
+			<matome halaman="101"/>
+		</bab>
+
+		<!-- BAB 7 (1) - Page 103 -->
+		<bab id="12" halaman="103">
+			<kategori>大好きなピアノ</kategori>
+			<kategori_en>I love the piano</kategori_en>
+			<kategori_id>Piano Kesukaanku</kategori_id>
+			<nomor>12</nomor>
+			<judul_jp>大好きなピアノ（１）</judul_jp>
+			<judul_en>I love the piano (1)</judul_en>
+			<judul_id>Piano Kesukaanku (1)</judul_id>
+			<grammar_points>
+				<point id="57" halaman="104">あそびに行くな</point>
+				<point id="58" halaman="105">練習しろ + Plus ～なさい</point>
+				<point id="59" halaman="106">って毎日言われて</point>
+				<point id="60" halaman="107">教えてくれた + Plus ～をくれる／ください</point>
+				<point id="61" halaman="109">ひけるようになった</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 7 (2) - Page 110 -->
+		<bab id="13" halaman="110">
+			<kategori>大好きなピアノ</kategori>
+			<kategori_en>I love the piano</kategori_en>
+			<kategori_id>Piano Kesukaanku</kategori_id>
+			<nomor>13</nomor>
+			<judul_jp>大好きなピアノ（２）</judul_jp>
+			<judul_en>I love the piano (2)</judul_en>
+			<judul_id>Piano Kesukaanku (2)</judul_id>
+			<grammar_points>
+				<point id="62" halaman="110">ピアノの楽しさ</point>
+				<point id="63" halaman="111">練習しよう</point>
+				<point id="64" halaman="112">しようと思っています</point>
+				<point id="65" halaman="113">父のために</point>
+				<point id="66" halaman="114">ひくつもりです</point>
+				<point id="67" halaman="115">子どもに習わせたい</point>
+			</grammar_points>
+			<matome halaman="117"/>
+		</bab>
+
+		<!-- BAB 8 (1) - Page 120 -->
+		<bab id="14" halaman="120">
+			<kategori>旅館のよやく</kategori>
+			<kategori_en>Booking a room at a traditional inn</kategori_en>
+			<kategori_id>Pemesanan Kamar di Ryokan</kategori_id>
+			<nomor>14</nomor>
+			<judul_jp>旅館のよやく（１）</judul_jp>
+			<judul_en>Booking a room at a traditional inn (1)</judul_en>
+			<judul_id>Pemesanan Kamar di Ryokan (1)</judul_id>
+			<grammar_points>
+				<point id="68" halaman="120">山下旅館でございます + Plus ございます</point>
+				<point id="69" halaman="121">お願いしたいんですが</point>
+				<point id="70" halaman="122">いつでしょうか</point>
+				<point id="71" halaman="123">和室と洋室とどちらがよろしいでしょうか</point>
+				<point id="72" halaman="124">和室のほうがいい</point>
+				<point id="73" halaman="125">洋室より和室のほうが少し広いです</point>
+				<point id="74" halaman="126">和室にします</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 8 (2) - Page 127 -->
+		<bab id="15" halaman="127">
+			<kategori>旅館のよやく</kategori>
+			<kategori_en>Booking a room at a traditional inn</kategori_en>
+			<kategori_id>Pemesanan Kamar di Ryokan</kategori_id>
+			<nomor>15</nomor>
+			<judul_jp>旅館のよやく（２）</judul_jp>
+			<judul_en>Booking a room at a traditional inn (2)</judul_en>
+			<judul_id>Pemesanan Kamar di Ryokan (2)</judul_id>
+			<grammar_points>
+				<point id="75" halaman="128">道はわかりやすいと思う</point>
+				<point id="76" halaman="128">わかりにくいかもしれません</point>
+				<point id="77" halaman="129">お待ちしています</point>
+			</grammar_points>
+			<matome halaman="132"/>
+		</bab>
+
+		<!-- BAB 9 (1) - Page 134 -->
+		<bab id="16" halaman="134">
+			<kategori>ゆうしょうインタビュー</kategori>
+			<kategori_en>A post-victory interview</kategori_en>
+			<kategori_id>Wawancara Kemenangan</kategori_id>
+			<nomor>16</nomor>
+			<judul_jp>ゆうしょうインタビュー（１）</judul_jp>
+			<judul_en>A post-victory interview (1)</judul_en>
+			<judul_id>Wawancara Kemenangan (1)</judul_id>
+			<grammar_points>
+				<point id="78" halaman="135">お気持ち</point>
+				<point id="79" halaman="135">おうえんしていただいた</point>
+				<point id="80" halaman="136">いんたいされる</point>
+				<point id="81" halaman="138">いんたいされるそうです</point>
+				<point id="82" halaman="139">試合中</point>
+				<point id="83" halaman="140">考えていらっしゃいました</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 9 (2) - Page 142 -->
+		<bab id="17" halaman="142">
+			<kategori>ゆうしょうインタビュー</kategori>
+			<kategori_en>A post-victory interview</kategori_en>
+			<kategori_id>Wawancara Kemenangan</kategori_id>
+			<nomor>17</nomor>
+			<judul_jp>ゆうしょうインタビュー（２）</judul_jp>
+			<judul_en>A post-victory interview (2)</judul_en>
+			<judul_id>Wawancara Kemenangan (2)</judul_id>
+			<grammar_points>
+				<point id="84" halaman="142">せんしゅ生活で何がいちばんよかったですか</point>
+				<point id="85" halaman="143">プレーするようになりました</point>
+				<point id="86" halaman="144">教えることになっています</point>
+				<point id="87" halaman="145">ゆっくりお休みになって</point>
+			</grammar_points>
+			<matome halaman="147"/>
+		</bab>
+
+		<!-- BAB 10 (1) - Page 150 -->
+		<bab id="18" halaman="150">
+			<kategori>アルバイトのめんせつ</kategori>
+			<kategori_en>An interview for a part-time job</kategori_en>
+			<kategori_id>Wawancara Kerja Paruh Waktu</kategori_id>
+			<nomor>18</nomor>
+			<judul_jp>アルバイトのめんせつ（１）</judul_jp>
+			<judul_en>An interview for a part-time job (1)</judul_en>
+			<judul_id>Wawancara Kerja Paruh Waktu (1)</judul_id>
+			<grammar_points>
+				<point id="88" halaman="151">お入りください</point>
+				<point id="89" halaman="153">アメリカからまいりました</point>
+				<point id="90" halaman="154">TOEFLのクラスなら大丈夫</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAB 10 (2) - Page 156 -->
+		<bab id="19" halaman="156">
+			<kategori>アルバイトのめんせつ</kategori>
+			<kategori_en>An interview for a part-time job</kategori_en>
+			<kategori_id>Wawancara Kerja Paruh Waktu</kategori_id>
+			<nomor>19</nomor>
+			<judul_jp>アルバイトのめんせつ（２）</judul_jp>
+			<judul_en>An interview for a part-time job (2)</judul_en>
+			<judul_id>Wawancara Kerja Paruh Waktu (2)</judul_id>
+			<grammar_points>
+				<point id="91" halaman="156">使ってはいけない</point>
+				<point id="92" halaman="157">話さないようにします</point>
+				<point id="93" halaman="159">来てほしい</point>
+			</grammar_points>
+			<matome halaman="160"/>
+		</bab>
+
+		<!-- BAB 11 - Page 162 -->
+		<bab id="20" halaman="162">
+			<kategori>便利な言葉</kategori>
+			<kategori_en>Useful vocabulary</kategori_en>
+			<kategori_id>Kosakata Berguna</kategori_id>
+			<nomor>20</nomor>
+			<judul_jp>便利な言葉</judul_jp>
+			<judul_en>Useful vocabulary</judul_en>
+			<judul_id>Kosakata Berguna</judul_id>
+			<grammar_points>
+				<point id="94" halaman="162">1 助詞 Particles</point>
+				<point id="95" halaman="165">2 副詞 Adverbs</point>
+				<point id="96" halaman="167">3 指示語 Demonstratives</point>
+				<point id="97" halaman="168">4 自動詞・他動詞 Intransitive and transitive verbs</point>
+			</grammar_points>
+			<matome halaman=""/>
+		</bab>
+
+		<!-- BAGIAN AKHIR -->
+		<bagian_akhir>
+			<item id="practice_test" halaman="170">
+				<judul_jp>模擬試験（1回分）</judul_jp>
+				<judul_en>Practice Test</judul_en>
+				<judul_id>Tes Simulasi (1 Kali)</judul_id>
+			</item>
+			<item id="pattern_index" halaman="200">
+				<judul_jp>文型さくいん</judul_jp>
+				<judul_en>Sentence Pattern Index</judul_en>
+				<judul_id>Indeks Pola Kalimat</judul_id>
+			</item>
+			<item id="pattern_list" halaman="203">
+				<judul_jp>似ている文型リスト＜N4レベル＞</judul_jp>
+				<judul_en>Similar Sentence Pattern List &lt;Level N4&gt;</judul_en>
+				<judul_id>Daftar Pola Kalimat Serupa &lt;Level N4&gt;</judul_id>
+			</item>
+			<item id="can_do_list" halaman="205">
+				<judul_jp>N4「できること」リスト</judul_jp>
+				<judul_en>N4 Can Do List</judul_en>
+				<judul_id>Daftar Kemampuan N4</judul_id>
+			</item>
+		</bagian_akhir>
+
+		<supplement>
+			<judul_jp>別冊</judul_jp>
+			<judul_en>Supplement</judul_en>
+			<judul_id>Lampiran</judul_id>
+
+			<item>
+				<judul_jp>答え・スクリプト</judul_jp>
+				<judul_en>Answers &amp; Scripts</judul_en>
+				<judul_id>Jawaban &amp; Skrip</judul_id>
+			</item>
+			<item>
+				<judul_jp>解答用紙（マークシート）</judul_jp>
+				<judul_en>Answer Sheets</judul_en>
+				<judul_id>Lembar Jawaban (Mark Sheet)</judul_id>
+			</item>
+		</supplement>
+	</daftar_isi>
+	
+	<!-- KONTEN BAB 1 - Pages 16-17 -->
+	<bab1_content>
+		<header halaman="16-17">
+			<kategori>あいさつの言葉</kategori>
+			<kategori_en>Greeting vocabulary</kategori_en>
+			<kategori_id>Kosakata Sapaan</kategori_id>
+			<nomor>1</nomor>
+			<judul>あいさつの言葉</judul>
+			<judul_en>Greeting vocabulary</judul_en>
+			<judul_id>Kosakata Sapaan</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>基本的なあいさつや決まった表現を言うことができる。</jp>
+					<en>Use basic greetings and standard phrases.</en>
+					<id>Dapat mengucapkan sapaan dasar dan ungkapan tetap.</id>
+				</item>
+				<item>
+					<jp>あいさつされたときに決まった受け答えができる。</jp>
+					<en>Give standard responses when greeted.</en>
+					<id>Dapat memberikan jawaban tetap ketika disapa.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech">
+				<bagian cd="02">
+					<judul>あいさつの表現</judul>
+					<judul_id>Ungkapan Sapaan</judul_id>
+					<dialog>
+						<karakter nama="A">
+							<jp>いってきます。</jp>
+							<id>Saya pergi (dan akan kembali).</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>いってらっしゃい。</jp>
+							<id>Selamat jalan.</id>
+						</karakter>
+					</dialog>
+					<dialog>
+						<karakter nama="A">
+							<jp>いってまいります。</jp>
+							<id>Saya pergi (sopan).</id>
+						</karakter>
+					</dialog>
+					<dialog>
+						<karakter nama="A">
+							<jp>ただいま。</jp>
+							<id>Saya sudah kembali.</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>お帰りなさい。</jp>
+							<id>Selamat datang kembali.</id>
+						</karakter>
+					</dialog>
+				</bagian>
+
+				<bagian cd="03">
+					<judul>お祝いの表現</judul>
+					<judul_id>Ungkapan Ucapan Selamat</judul_id>
+					<catatan>結婚式・誕生日・卒業式・出産・合格発表など</catatan>
+					<catatan_id>Pernikahan, ulang tahun, wisuda, kelahiran, pengumuman kelulusan, dll.</catatan_id>
+					<dialog>
+						<karakter nama="A">
+							<jp>おめでとうございます。</jp>
+							<id>Selamat.</id>
+						</karakter>
+					</dialog>
+					<dialog>
+						<karakter nama="B">
+							<jp>ありがとうございます。おかげさまで。</jp>
+							<id>Terima kasih. Berkat Anda (saya baik-baik saja).</id>
+						</karakter>
+					</dialog>
+				</bagian>
+
+				<bagian cd="04">
+					<judul>気遣いの表現</judul>
+					<judul_id>Ungkapan Perhatian</judul_id>
+					<dialog>
+						<karakter nama="A">
+							<jp>頭が痛いです。</jp>
+							<id>Kepala saya sakit.</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>大丈夫ですか。</jp>
+							<id>Apakah Anda baik-baik saja?</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>お大事に。</jp>
+							<id>Jaga diri Anda baik-baik.</id>
+						</karakter>
+					</dialog>
+				</bagian>
+
+				<bagian cd="05">
+					<judul>仕事・礼儀の表現</judul>
+					<judul_id>Ungkapan Pekerjaan dan Sopan Santun</judul_id>
+					<dialog>
+						<karakter nama="A">
+							<jp>これ、お願いします。</jp>
+							<id>Tolong ini.</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>かしこまりました。</jp>
+							<id>Baik, saya mengerti (sangat sopan).</id>
+						</karakter>
+					</dialog>
+					<dialog>
+						<karakter nama="A">
+							<jp>お待たせしました。</jp>
+							<id>Maaf telah membuat Anda menunggu.</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>いいえ。</jp>
+							<id>Tidak apa-apa.</id>
+						</karakter>
+					</dialog>
+					<dialog>
+						<karakter nama="A">
+							<jp>お世話になりました。</jp>
+							<id>Terima kasih atas bantuan/kerja samanya.</id>
+						</karakter>
+						<karakter nama="B">
+							<jp>いいえ、こちらこそ。</jp>
+							<id>Tidak, saya yang seharusnya berterima kasih.</id>
+						</karakter>
+					</dialog>
+				</bagian>
+			</content>
+		</header>
+
+		<!-- YATTE MIYOU - Page 17 -->
+		<yatte_miyou halaman="17">
+			<judul>やってみよう！</judul>
+			<judul_id>Ayo Coba!</judul_id>
+			<jawaban_ref>別冊P. 1</jawaban_ref>
+			<instruksi>このもんだいでは、えなどがありません。まずぶんを聞いてください。それから、そのへんじを聞いて、1から3の中から、いちばんいいものを一つえらんでください。</instruksi>
+			<instruksi_id>Dalam soal ini, tidak ada gambar. Pertama, dengarkan kalimat. Kemudian dengarkan jawabannya, dan pilih yang paling tepat dari 1 sampai 3.</instruksi_id>
+
+			<soal id="1" cd="06">
+				<pilihan>1</pilihan>
+				<pilihan>2</pilihan>
+				<pilihan>3</pilihan>
+			</soal>
+			<soal id="2" cd="07">
+				<pilihan>1</pilihan>
+				<pilihan>2</pilihan>
+				<pilihan>3</pilihan>
+			</soal>
+			<soal id="3" cd="08">
+				<pilihan>1</pilihan>
+				<pilihan>2</pilihan>
+				<pilihan>3</pilihan>
+			</soal>
+			<soal id="4" cd="09">
+				<pilihan>1</pilihan>
+				<pilihan>2</pilihan>
+				<pilihan>3</pilihan>
+			</soal>
+		</yatte_miyou>
+	</bab1_content>
+	
+	<!-- KONTEN BAB 2 - Pages 18-25 -->
+	<bab2_content>
+		<!-- PAGE 18 - Header & Dekiru Koto -->
+		<header halaman="18">
+			<kategori>おかし作り</kategori>
+			<kategori_en>Making sweets</kategori_en>
+			<kategori_id>Membuat Kue</kategori_id>
+			<nomor>2</nomor>
+			<judul>おかし作り（１）</judul>
+			<judul_en>Making sweets (1)</judul_en>
+			<judul_id>Membuat Kue (1)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>手作りの物などを謙遜しながらすすめることができる。</jp>
+					<en>Humbly recommend hand-made things and the like.</en>
+					<id>Dapat merekomendasikan barang buatan tangan dan sejenisnya dengan rendah hati.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="10">
+				<teks>キム：高橋さん。これ、ちょっと食べてみてください。
+	高橋：わあ、おいしそうですね。キムさんが作ったんですか。
+	キム：はい。料理教室で作り方を習ったので、作ってみました。
+	高橋：へえ、すごいですね。こんなケーキを作ることができるんですか。
+	キム：でも、はじめて作ったので、おいしいかどうか…。</teks>
+				<teks_id>Kim: Takahashi-san. Ini, coba makan sedikit.
+	Takahashi: Wah, kelihatan enak ya. Kim-san yang membuatnya?
+	Kim: Iya. Karena belajar cara membuatnya di kelas memasak, saya coba membuatnya.
+	Takahashi: Wah, hebat ya. Anda bisa membuat kue seperti ini?
+	Kim: Tapi, karena pertama kali membuatnya, enak atau tidak...</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 1: 食べてみてください - Page 18 -->
+		<sub_bab id="1" halaman="18">
+			<nomor>1</nomor>
+			<judul>食べてみてください</judul>
+			<judul_id>Silakan Coba Makan</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～てみる」は、いいかどうか試しに少しするというときに使う。</jp>
+					<en>Use "~te miru" when a person tries something a little to see if he or she likes it.</en>
+					<id>Gunakan "~te miru" ketika seseorang mencoba sesuatu sedikit untuk melihat apakah dia menyukainya.</id>
+				</penjelasan>
+				<pola>V-て + みる</pola>
+				<pola_id>Kata Kerja bentuk te + miru</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>A：あのレストランのカレー、おいしいですよ。B：そうですか。じゃ、今度食べてみます。</jp>
+						<id>A: Kari restoran itu enak. B: Begitu ya. Kalau begitu, nanti saya coba makan.</id>
+					</item>
+					<item no="2">
+						<jp>このくつ、軽くてとてもいいですよ。ちょっとはいてみてください。</jp>
+						<id>Sepatu ini ringan dan sangat bagus. Coba pakai sebentar.</id>
+					</item>
+					<item no="3">
+						<jp>このゲーム、やってみませんか。</jp>
+						<id>Game ini, maukah mencobanya?</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 1</jawaban_ref>
+
+				<soal id="1">
+					<teks>おんせんに（　　　）みたいです。</teks>
+					<jawaban>はいって</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>スキーを（　　　）みたいです。</teks>
+					<jawaban>して</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>雪まつりを（　　　）みたいです。</teks>
+					<jawaban>みにいって</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>着物を（　　　）みたいです。</teks>
+					<jawaban>きて</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>日本のお酒を（　　　）みたいです。</teks>
+					<jawaban>のんで</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～てみる</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 2: おいしそうですね - Pages 19-20 -->
+		<sub_bab id="2" halaman="19-20">
+			<nomor>2</nomor>
+			<judul>おいしそうですね</judul>
+			<judul_id>Kelihatan Enak Ya</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～そうだ」は、見て感じた様子や状態を言うときに使う。</jp>
+					<en>Use "~sou da" to describe something's appearance or condition judged only by looking at it.</en>
+					<id>Gunakan "~sou da" untuk menggambarkan penampilan atau kondisi sesuatu yang dinilai hanya dengan melihatnya.</id>
+				</penjelasan>
+				<pola>いA-い / なA + そうだ</pola>
+				<pola_id>Kata Sifat i / Kata Sifat na + sou da</pola_id>
+				<catatan>※いい → よさそうだ</catatan>
+				<catatan_id>※Yoi → yosasou da</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>外は、寒そうです。</jp>
+						<id>Di luar, kelihatan dingin.</id>
+					</item>
+					<item no="2">
+						<jp>明日は天気がよさそうです。</jp>
+						<id>Besok kelihatan cuacanya bagus.</id>
+					</item>
+					<item no="3">
+						<jp>きのう高校のときの友だちに会いましたが、とても元気そうでした。</jp>
+						<id>Kemarin saya bertemu teman waktu SMA, kelihatan sangat sehat.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 1</jawaban_ref>
+
+				<soal id="1">
+					<teks>この車は ＿＿ そうです。 / この車は ＿＿ そうです。</teks>
+					<jawaban>高い／安い</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>大下さんは ＿＿ そうです。 / 小山さんは ＿＿ そうです。</teks>
+					<jawaban>忙しい／ひま</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>山田さんのお母さんは ＿＿ そうです。 / お父さんは ＿＿ そうです。</teks>
+					<jawaban>やさしい／きびしい</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>安い</item>
+					<item>きびしい</item>
+					<item>忙しい</item>
+					<item>高い</item>
+					<item>やさしい</item>
+					<item>ひま</item>
+					<item>おいしい</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<u>
+				<penjelasan>
+					<jp>「V-ます + そうだ」の形も使われる。</jp>
+					<en>You can also use the "V-masu + sou da" form.</en>
+					<id>Bentuk "V-masu + sou da" juga digunakan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>大山さんはお金がありそうです。</jp>
+						<id>Ooyama-san kelihatannya punya uang.</id>
+					</item>
+					<item no="2">
+						<jp>高田さんはお酒がたくさん飲めそうです。</jp>
+						<id>Takada-san kelihatannya bisa minum banyak alkohol.</id>
+					</item>
+				</contoh_plus>
+				<referensi>
+					<item no="37">疲れそうです</item>
+					<item no="51">おちそうだった</item>
+					<item no="81">いんたいされるそうです</item>
+				</referensi>
+			</u>
+
+			<catatan>※「～そうだ」は名詞には使わない。</catatan>
+			<catatan_id>※ Jangan gunakan "~sou da" dengan kata benda.</catatan_id>
+			<contoh_salah>
+				<item>
+					<jp>あの人は先生そうです。</jp>
+					<id>❌ Orang itu kelihatannya guru. (Salah)</id>
+				</item>
+			</contoh_salah>
+
+			<halaman_ref>p.224 ～そうだ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 3: 作ったんですか - Pages 21-22 -->
+		<sub_bab id="3" halaman="21-22">
+			<nomor>3</nomor>
+			<judul>作ったんですか</judul>
+			<judul_id>Anda Membuatnya?</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～んです」は、相手の事情を説明してほしいときや自分の事情を話したいときなどに使う。理由を言うときにも使う。</jp>
+					<en>Use "~n desu", for example, when you want a person to explain their situation or when you want to talk about your situation. You can also use it to provide a reason.</en>
+					<id>Gunakan "~n desu", misalnya, ketika Anda ingin seseorang menjelaskan situasinya atau ketika Anda ingin berbicara tentang situasi Anda. Juga bisa digunakan untuk memberikan alasan.</id>
+				</penjelasan>
+				<pola>PI + んです</pola>
+				<pola_id>Predikat + n desu</pola_id>
+				<catatan>[なAだな Nだな]</catatan>
+				<catatan_id>[Kata Sifat na / Kata Benda + da na]</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>A：どうしたんですか。B：ちょっと気分が悪いんです。</jp>
+						<id>A: Ada apa? B: Sedikit merasa tidak enak badan.</id>
+					</item>
+					<item no="2">
+						<jp>A：あれ、山田さん、今日仕事は？B：今日は休みなんです。</jp>
+						<id>A: Hah, Yamada-san, hari ini kerja? B: Hari ini libur.</id>
+					</item>
+					<item no="3">
+						<jp>A：そのシャツ、きれいですね。どこで買ったんですか。B：駅前のデパートです。</jp>
+						<id>A: Kemeja itu bagus ya. Di mana membelinya? B: Di department store di depan stasiun.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 1</jawaban_ref>
+
+				<soal id="1">
+					<teks>A：山田さんは歌わないんですか。山田：ええ、歌が ＿＿ んです。</teks>
+					<jawaban>下手な</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>A：パーティーの申込書、どこに ＿＿ んですか。B：私も知らないんです。事務所で聞きましょう。</teks>
+					<jawaban>出す</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>A：どうしたんですか。B：歯が ＿＿ んです。</teks>
+					<jawaban>痛い</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>A：先生、この問題が ＿＿ んです。B：じゃ、もう一度説明しますね。</teks>
+					<jawaban>わからない</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>わかります</item>
+					<item>痛いです</item>
+					<item>下手です</item>
+					<item>あります</item>
+					<item>出します</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～んです</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 4: 作り方 - Page 22-23 -->
+		<sub_bab id="4" halaman="22-23">
+			<nomor>4</nomor>
+			<judul>作り方</judul>
+			<judul_id>Cara Membuat</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～方」は、～する方法という意味で使う。</jp>
+					<en>Use "~kata" to talk about how to do something.</en>
+					<id>Gunakan "~kata" untuk berbicara tentang cara melakukan sesuatu.</id>
+				</penjelasan>
+				<pola>V-ます + 方</pola>
+				<pola_id>Kata Kerja bentuk masu + kata</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>この料理の作り方を教えてください。</jp>
+						<id>Tolong ajarikan cara membuat masakan ini.</id>
+					</item>
+					<item no="2">
+						<jp>この漢字の読み方がわかりますか。</jp>
+						<id>Apakah Anda tahu cara membaca kanji ini?</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 1</jawaban_ref>
+
+				<soal id="1">
+					<teks>日本の着物の ＿＿ がわかりません。</teks>
+					<jawaban>着方</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>新しいコンピューターの ＿＿ を習いました。</teks>
+					<jawaban>使い方</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>あなたはこのゲームの ＿＿ を知っていますか。</teks>
+					<jawaban>遊び方</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>これは上手な ＿＿ の本です。スピーチの前に読んでください。</teks>
+					<jawaban>話し方</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>食べます</item>
+					<item>使います</item>
+					<item>着ます</item>
+					<item>話します</item>
+					<item>あそびます</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～方</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 5: 作り方を習ったので - Page 23-24 -->
+		<sub_bab id="5" halaman="23-24">
+			<nomor>5</nomor>
+			<judul>作り方を習ったので</judul>
+			<judul_id>Karena Belajar Cara Membuatnya</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ので」は、「～から」と同じように原因・理由を言うときに使う。</jp>
+					<en>Use "~no de" to talk about a cause or reason, just like "~kara".</en>
+					<id>Gunakan "~no de" untuk berbicara tentang sebab atau alasan, sama seperti "~kara".</id>
+				</penjelasan>
+				<pola>PI + ので</pola>
+				<pola_id>Predikat + no de</pola_id>
+				<catatan>[なAだな Nだな]</catatan>
+				<catatan_id>[Kata Sifat na / Kata Benda + da na]</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>今日は雨が降っているので、ちょっと寒いです。</jp>
+						<id>Hari ini hujan turun, jadi sedikit dingin.</id>
+					</item>
+					<item no="2">
+						<jp>東京の地下鉄は便利なので、地下鉄でいろいろなところへ行きます。</jp>
+						<id>Kereta bawah tanah Tokyo praktis, jadi saya pergi ke berbagai tempat dengan kereta bawah tanah.</id>
+					</item>
+					<item no="3">
+						<jp>バスが来なかったので、タクシーで行きました。</jp>
+						<id>Karena bus tidak datang, saya pergi dengan taksi.</id>
+					</item>
+					<item no="4">
+						<jp>今日は休みなので、動物園へ行きます。</jp>
+						<id>Karena hari ini libur, saya pergi ke kebun binatang.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 1</jawaban_ref>
+
+				<soal id="1">
+					<teks>兄は映画が ＿＿ ので、よく見に行きます。</teks>
+					<jawaban>好きな</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>今日は ＿＿ ので、学校は休みです。</teks>
+					<jawaban>日曜日な</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>パソコンが ＿＿ ので、新しいのを買いました。</teks>
+					<jawaban>こわれた</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>私の家は駅から ＿＿ ので、不便です。</teks>
+					<jawaban>遠い</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>見ます</item>
+					<item>日曜日です</item>
+					<item>好きです</item>
+					<item>遠いです</item>
+					<item>こわれます</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<catatan>「ので」は「から」よりもていねいな言い方で、個人的な理由や謝るときの言い訳によく使われる。</catatan>
+			<catatan_id>"No de" adalah cara berbicara yang lebih sopan daripada "kara", sering digunakan untuk memberikan alasan pribadi atau alasan saat meminta maaf.</catatan_id>
+			<contoh_plus>
+				<item no="1">
+					<jp>すみません。ねつがあるので、早く帰って寝ます。</jp>
+					<id>Maaf. Karena saya demam, saya pulang cepat dan tidur.</id>
+				</item>
+				<item no="2">
+					<jp>この会社のことをよく知らないので、いろいろ教えてください。</jp>
+					<id>Karena saya tidak mengenal perusahaan ini dengan baik, tolong ajari saya berbagai hal.</id>
+				</item>
+			</contoh_plus>
+
+			<halaman_ref>p.224 ～ので</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 6: 作ることができる - Page 24-25 -->
+		<sub_bab id="6" halaman="24-25">
+			<nomor>6</nomor>
+			<judul>作ることができる</judul>
+			<judul_id>Bisa Membuat</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ができる」は、～をする能力があるとか、そこで～が許可されているなどと言うときに使う。</jp>
+					<en>Use "~ga dekiru" when you say, for example, that a person has the ability to do something, or that a certain action is permitted in a place.</en>
+					<id>Gunakan "~ga dekiru" ketika Anda mengatakan, misalnya, bahwa seseorang memiliki kemampuan untuk melakukan sesuatu, atau bahwa tindakan tertentu diizinkan di suatu tempat.</id>
+				</penjelasan>
+				<pola>V-る + こと / N + ができる</pola>
+				<pola_id>Kata Kerja bentuk dasar + koto / Kata Benda + ga dekiru</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>私はギターをひくことができます。</jp>
+						<id>Saya bisa memainkan gitar.</id>
+					</item>
+					<item no="2">
+						<jp>田中さんはフランス語ができます。</jp>
+						<id>Tanaka-san bisa berbahasa Prancis.</id>
+					</item>
+					<item no="3">
+						<jp>美術館では写真を撮ることができません。</jp>
+						<id>Di museum seni tidak boleh mengambil foto.</id>
+					</item>
+					<item no="4">
+						<jp>インターネットでホテルのよやくができます。</jp>
+						<id>Bisa memesan hotel melalui internet.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>私は ＿＿。</teks>
+					<jawaban>じてんしゃにのることができます</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>この川は危ないので、＿＿。</teks>
+					<jawaban>およぐことができません</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>私はパソコンを ＿＿。</teks>
+					<jawaban>なおすことができます</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>この映画館では、水曜日は ＿＿。</teks>
+					<jawaban>えいがをみることができます</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<u>
+				<penjelasan>
+					<jp>「N + ができる」は「完成する」の意味でも使われる。</jp>
+					<en>"N + ga dekiru" is also used to mean that something is completed.</en>
+					<id>"Kata Benda + ga dekiru" juga digunakan untuk mengatakan bahwa sesuatu selesai.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>駅のそばにスーパーができました。</jp>
+						<id>Supermarket telah selesai dibangun di dekat stasiun.</id>
+					</item>
+					<item no="2">
+						<jp>A：先週の出張のレポート、まだできないんですか。B：すみません。もうすぐできると思います。</jp>
+						<id>A: Laporan perjalanan dinas minggu lalu, belum selesai? B: Maaf. Saya pikir segera selesai.</id>
+					</item>
+				</contoh_plus>
+			</u>
+
+			<halaman_ref>p.224 ～ができる</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 7: おいしいかどうか - Page 25-26 -->
+		<sub_bab id="7" halaman="25-26">
+			<nomor>7</nomor>
+			<judul>おいしいかどうか</judul>
+			<judul_id>Enak atau Tidak</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～かどうか」は、「するかしないか・そうかそうじゃないか」を言うときに使う。後ろの言葉は「知っている・言う・聞く・わからない・～てみる」などがよく使われる。</jp>
+					<en>Use "~ka dou ka" when you say "will or will not" or "like this or not like this". Words such as "shitte iru, iu, kiku, wakaranai, ~te miru" are often used afterward.</en>
+					<id>Gunakan "~ka dou ka" ketika Anda mengatakan "akan atau tidak akan" atau "seperti ini atau tidak seperti ini". Kata-kata seperti "tahu, mengatakan, mendengar, tidak tahu, ~te miru" sering digunakan setelahnya.</id>
+				</penjelasan>
+				<pola>PI + かどうか</pola>
+				<pola_id>Predikat + ka dou ka</pola_id>
+				<catatan>[なAだ Nだ]</catatan>
+				<catatan_id>[Kata Sifat na / Kata Benda + da]</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>明日パーティーがあるかどうか、知っていますか。</jp>
+						<id>Apakah Anda tahu apakah besok ada pesta atau tidak?</id>
+					</item>
+					<item no="2">
+						<jp>テストを出す前に、まちがいがないかどうか、よく見てください。</jp>
+						<id>Sebelum mengumpulkan tes, periksa dengan baik apakah ada kesalahan atau tidak.</id>
+					</item>
+					<item no="3">
+						<jp>田中さんの話は本当かどうか、わかりません。</jp>
+						<id>Saya tidak tahu apakah cerita Tanaka-san benar atau tidak.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>あの図書館、日曜日が ＿＿ かどうか、知っていますか。</teks>
+					<jawaban>休み</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>あのレストランは ＿＿ かどうか、わかりません。</teks>
+					<jawaban>おいしい</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>この仕事、明日までに ＿＿ かどうかわかりませんが、やってみましょう。</teks>
+					<jawaban>できる</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>明日いっしょにカラオケに ＿＿ かどうか、友だちに電話して聞いてみます。</teks>
+					<jawaban>行ける</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>あります</item>
+					<item>おいしいです</item>
+					<item>行きます</item>
+					<item>休みです</item>
+					<item>できます</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～かどうか</halaman_ref>
+		</sub_bab>
+	</bab2_content>
+
+
+	<!-- KONTEN BAB 3 - Pages 26-35 -->
+	
+	<!-- N3「できること」リスト - Pages 186-189 -->
+	<can_do_list halaman="186-189">
+		<judul_jp>N3「できること」リスト</judul_jp>
+		<judul_en>N3 Can Do List</judul_en>
+		<judul_id>Daftar Kemampuan N3</judul_id>
+
+		<bab_group id="1">
+			<nomor>1</nomor>
+			<kategori>旅行の経験を話す</kategori>
+			<kategori_en>Talk about Trip Experiences</kategori_en>
+			<kategori_id>Bercerita tentang Pengalaman Perjalanan</kategori_id>
+			<judul>初めての富士登山</judul>
+			<judul_en>First climb up Mt. Fuji</judul_en>
+			<judul_id>Mendaki Gunung Fuji untuk Pertama Kalinya</judul_id>
+			<dekiru>
+				<item>
+					<jp>旅行などの初めての経験について、体験したことや考えたこと、感じたことが表現できる。</jp>
+					<en>Talk about things you tried as well as your thoughts and feelings about trips and other new experiences.</en>
+					<id>Dapat menceritakan hal-hal yang dicoba serta pemikiran dan perasaan tentang perjalanan dan pengalaman baru lainnya.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="2">
+			<nomor>2</nomor>
+			<kategori>旅行の経験を話す</kategori>
+			<kategori_en>Talk about Trip Experiences</kategori_en>
+			<kategori_id>Bercerita tentang Pengalaman Perjalanan</kategori_id>
+			<judul>初めての富士登山</judul>
+			<judul_en>First climb up Mt. Fuji</judul_en>
+			<judul_id>Mendaki Gunung Fuji untuk Pertama Kalinya</judul_id>
+			<dekiru>
+				<item>
+					<jp>旅行などの初めての経験について、体験したことや考えたこと、感じたことが表現できる。</jp>
+					<en>Talk about things you tried as well as your thoughts and feelings about trips and other new experiences.</en>
+					<id>Dapat menceritakan hal-hal yang dicoba serta pemikiran dan perasaan tentang perjalanan dan pengalaman baru lainnya.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="3">
+			<nomor>3</nomor>
+			<kategori>ペットや家族を紹介する</kategori>
+			<kategori_en>Introduce Pets and Family</kategori_en>
+			<kategori_id>Memperkenalkan Hewan Peliharaan dan Keluarga</kategori_id>
+			<judul>ぼくの犬、クロ</judul>
+			<judul_en>My pet dog Kuro</judul_en>
+			<judul_id>Anjingku, Kuro</judul_id>
+			<dekiru>
+				<item>
+					<jp>ペットや家族を簡単に紹介したり、自分との関係を説明したりすることができる。</jp>
+					<en>Present basic information about your pets and family, and explain your relationships with them.</en>
+					<id>Dapat menyajikan informasi dasar tentang hewan peliharaan dan keluarga, serta menjelaskan hubungan dengan mereka.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="4">
+			<nomor>4</nomor>
+			<kategori>ペットや家族を紹介する</kategori>
+			<kategori_en>Introduce Pets and Family</kategori_en>
+			<kategori_id>Memperkenalkan Hewan Peliharaan dan Keluarga</kategori_id>
+			<judul>ぼくの犬、クロ</judul>
+			<judul_en>My pet dog Kuro</judul_en>
+			<judul_id>Anjingku, Kuro</judul_id>
+			<dekiru>
+				<item>
+					<jp>ペットや家族との生活や、自分との関係を説明したりすることができる。</jp>
+					<en>Explain how you live with your pets and family as well as your relationships with them.</en>
+					<id>Dapat menjelaskan cara hidup dengan hewan peliharaan dan keluarga serta hubungan dengan mereka.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="5">
+			<nomor>5</nomor>
+			<kategori>お知らせを読む</kategori>
+			<kategori_en>Read an Announcement</kategori_en>
+			<kategori_id>Membaca Pengumuman</kategori_id>
+			<judul>市民農園の募集</judul>
+			<judul_en>Applicants wanted for community garden</judul_en>
+			<judul_id>Pendaftaran Taman Komunitas</judul_id>
+			<dekiru>
+				<item>
+					<jp>参加募集のお知らせを見て、申込方法などの内容が理解できる。</jp>
+					<en>Read a recruitment announcement and understand the application process and other details.</en>
+					<id>Dapat membaca pengumuman pendaftaran dan memahami proses aplikasi serta detail lainnya.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="6">
+			<nomor>6</nomor>
+			<kategori>お知らせを読む</kategori>
+			<kategori_en>Read an Announcement</kategori_en>
+			<kategori_id>Membaca Pengumuman</kategori_id>
+			<judul>市民農園の募集</judul>
+			<judul_en>Applicants wanted for community garden</judul_en>
+			<judul_id>Pendaftaran Taman Komunitas</judul_id>
+			<dekiru>
+				<item>
+					<jp>イベントなどについて、経験者の感想や活動内容から、様子がイメージできる。</jp>
+					<en>Imagine what an event was like from a participant's impressions or activities they did.</en>
+					<id>Dapat membayangkan seperti apa suatu acara dari kesan atau aktivitas yang dilakukan peserta.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="7">
+			<nomor>7</nomor>
+			<kategori>友達同士の会話</kategori>
+			<kategori_en>A Conversation with a Friend</kategori_en>
+			<kategori_id>Percakapan dengan Teman</kategori_id>
+			<judul>水泳大会</judul>
+			<judul_en>A swimming competition</judul_en>
+			<judul_id>Pertandingan Renang</judul_id>
+			<dekiru>
+				<item>
+					<jp>個人的なことについて、確認しながら、友だちとおしゃべりができる。</jp>
+					<en>Talk with a friend about a private matter while confirming information.</en>
+					<id>Dapat berbicara dengan teman tentang masalah pribadi sambil mengkonfirmasi informasi.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="8">
+			<nomor>8</nomor>
+			<kategori>友達同士の会話</kategori>
+			<kategori_en>A Conversation with a Friend</kategori_en>
+			<kategori_id>Percakapan dengan Teman</kategori_id>
+			<judul>水泳大会</judul>
+			<judul_en>A swimming competition</judul_en>
+			<judul_id>Pertandingan Renang</judul_id>
+			<dekiru>
+				<item>
+					<jp>個人的なことについて、意見や感想を交えて、友だちとおしゃべりができる。</jp>
+					<en>Talk with a friend about a private matter as you exchange opinions and impressions.</en>
+					<id>Dapat berbicara dengan teman tentang masalah pribadi sambil bertukar pendapat dan kesan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="9">
+			<nomor>9</nomor>
+			<kategori>レシピを読む</kategori>
+			<kategori_en>Read a Recipe</kategori_en>
+			<kategori_id>Membaca Resep</kategori_id>
+			<judul>手作りハムのレシピ</judul>
+			<judul_en>A recipe for homemade ham</judul_en>
+			<judul_id>Resep Ham Buatan Sendiri</judul_id>
+			<dekiru>
+				<item>
+					<jp>レシピを読んで、どんな料理か理解できる。</jp>
+					<en>Read a recipe and understand what kind of food it is for.</en>
+					<id>Dapat membaca resep dan memahami jenis masakan yang dihasilkan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="10">
+			<nomor>10</nomor>
+			<kategori>レシピを読む</kategori>
+			<kategori_en>Read a Recipe</kategori_en>
+			<kategori_id>Membaca Resep</kategori_id>
+			<judul>手作りハムのレシピ</judul>
+			<judul_en>A recipe for homemade ham</judul_en>
+			<judul_id>Resep Ham Buatan Sendiri</judul_id>
+			<dekiru>
+				<item>
+					<jp>レシピを読んで、料理の手順や注意が理解できる。</jp>
+					<en>Read a recipe and understand the steps and advice.</en>
+					<id>Dapat membaca resep dan memahami langkah-langkah serta saran.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="11">
+			<nomor>11</nomor>
+			<kategori>発表をする</kategori>
+			<kategori_en>Give a Presentation</kategori_en>
+			<kategori_id>Memberikan Presentasi</kategori_id>
+			<judul>里山について</judul>
+			<judul_en>Satoyama</judul_en>
+			<judul_id>Tentang Satoyama</judul_id>
+			<dekiru>
+				<item>
+					<jp>環境問題など、あるテーマについての発表で、問題提起と自分の意見が言える。</jp>
+					<en>Pose a question and express your opinion during a presentation on a subject, such as environmental issues.</en>
+					<id>Dapat mengajukan pertanyaan dan menyampaikan pendapat selama presentasi tentang suatu topik, seperti isu lingkungan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="12">
+			<nomor>12</nomor>
+			<kategori>発表をする</kategori>
+			<kategori_en>Give a Presentation</kategori_en>
+			<kategori_id>Memberikan Presentasi</kategori_id>
+			<judul>里山について</judul>
+			<judul_en>Satoyama</judul_en>
+			<judul_id>Tentang Satoyama</judul_id>
+			<dekiru>
+				<item>
+					<jp>環境など、あるテーマについて具体例から結論までを話し、全体としてまとまった発表ができる。</jp>
+					<en>Give a full presentation on a subject that includes specific examples and a conclusion.</en>
+					<id>Dapat memberikan presentasi lengkap tentang suatu topik yang mencakup contoh spesifik dan kesimpulan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="13">
+			<nomor>13</nomor>
+			<kategori>説明を聞く・意見を言う</kategori>
+			<kategori_en>Listen to Explanations and Give Opinions</kategori_en>
+			<kategori_id>Mendengarkan Penjelasan dan Menyampaikan Pendapat</kategori_id>
+			<judul>不動産屋で</judul>
+			<judul_en>At a real estate agency</judul_en>
+			<judul_id>Di Agen Properti</judul_id>
+			<dekiru>
+				<item>
+					<jp>店員が説明するていねいな表現を理解し、受け答えができる。</jp>
+					<en>Understand an explanation given by a clerk using polite expressions and respond.</en>
+					<id>Dapat memahami penjelasan dari pegawai menggunakan ungkapan sopan dan menanggapinya.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="14">
+			<nomor>14</nomor>
+			<kategori>説明を聞く・意見を言う</kategori>
+			<kategori_en>Listen to Explanations and Give Opinions</kategori_en>
+			<kategori_id>Mendengarkan Penjelasan dan Menyampaikan Pendapat</kategori_id>
+			<judul>不動産屋で</judul>
+			<judul_en>At a real estate agency</judul_en>
+			<judul_id>Di Agen Properti</judul_id>
+			<dekiru>
+				<item>
+					<jp>友だちと、最近の変化について話したり、強くアドバイスをしたりすることができる。</jp>
+					<en>Talk about recent changes with a friend and emphatically give advice.</en>
+					<id>Dapat berbicara tentang perubahan terbaru dengan teman dan memberikan nasihat dengan tegas.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="15">
+			<nomor>15</nomor>
+			<kategori>面接であいさつをする</kategori>
+			<kategori_en>Greet in an Interview</kategori_en>
+			<kategori_id>Menyapa dalam Wawancara</kategori_id>
+			<judul>就職の面接</judul>
+			<judul_en>A job interview</judul_en>
+			<judul_id>Wawancara Kerja</judul_id>
+			<dekiru>
+				<item>
+					<jp>初対面の人に敬意を示す基本的な表現を使って、あいさつや受け答えができる。</jp>
+					<en>Use basic expressions that display humbleness to a person you have met for the first time in order to greet and respond to questions.</en>
+					<id>Dapat menggunakan ungkapan dasar yang menunjukkan kerendahan hati kepada orang yang baru pertama kali ditemui untuk menyapa dan menjawab pertanyaan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="16">
+			<nomor>16</nomor>
+			<kategori>身近な話題を話す</kategori>
+			<kategori_en>Talk about Familiar Topics</kategori_en>
+			<kategori_id>Berbicara tentang Topik Sehari-hari</kategori_id>
+			<judul>お花見</judul>
+			<judul_en>Cherry blossom viewing</judul_en>
+			<judul_id>Menonton Bunga Sakura</judul_id>
+			<dekiru>
+				<item>
+					<jp>身近な話題について、個人的な考え方や感じ方を表現することができる。</jp>
+					<en>Express personal thoughts and feelings about a familiar topic.</en>
+					<id>Dapat mengungkapkan pemikiran dan perasaan pribadi tentang topik yang familiar.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="17">
+			<nomor>17</nomor>
+			<kategori>身近な話題を話す</kategori>
+			<kategori_en>Talk about Familiar Topics</kategori_en>
+			<kategori_id>Berbicara tentang Topik Sehari-hari</kategori_id>
+			<judul>お花見</judul>
+			<judul_en>Cherry blossom viewing</judul_en>
+			<judul_id>Menonton Bunga Sakura</judul_id>
+			<dekiru>
+				<item>
+					<jp>特にこだわりがあるものなどについて、自分の気持ちを表現することができる。</jp>
+					<en>Express your feelings, especially about something you particularly care about.</en>
+					<id>Dapat mengungkapkan perasaan, terutama tentang sesuatu yang sangat diperhatikan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="18">
+			<nomor>18</nomor>
+			<kategori>意見を主張する・人を評価する</kategori>
+			<kategori_en>Assert Opinions and Evaluate People</kategori_en>
+			<kategori_id>Menegaskan Pendapat dan Mengevaluasi Orang</kategori_id>
+			<judul>ゆきの選択</judul>
+			<judul_en>Yuki's choice</judul_en>
+			<judul_id>Pilihan Yuki</judul_id>
+			<dekiru>
+				<item>
+					<jp>将来の展望について、自分の意見を強く主張することができる。</jp>
+					<en>Strongly assert your opinion about the outlook for the future.</en>
+					<id>Dapat menyatakan pendapat dengan tegas tentang prospek masa depan.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="19">
+			<nomor>19</nomor>
+			<kategori>意見を主張する・人を評価する</kategori>
+			<kategori_en>Assert Opinions and Evaluate People</kategori_en>
+			<kategori_id>Menegaskan Pendapat dan Mengevaluasi Orang</kategori_id>
+			<judul>ゆきの選択</judul>
+			<judul_en>Yuki's choice</judul_en>
+			<judul_id>Pilihan Yuki</judul_id>
+			<dekiru>
+				<item>
+					<jp>身近な人について、やや批判的に評価を言うことができる。</jp>
+					<en>Give a somewhat critical assessment of a familiar person.</en>
+					<id>Dapat memberikan penilaian yang agak kritis tentang orang yang dikenal.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="20">
+			<nomor>20</nomor>
+			<kategori>困った状況を説明する</kategori>
+			<kategori_en>Explain a Troubling Situation</kategori_en>
+			<kategori_id>Menjelaskan Situasi yang Menyusahkan</kategori_id>
+			<judul>友だちのお見舞い</judul>
+			<judul_en>Visiting a sick friend</judul_en>
+			<judul_id>Menjenguk Teman yang Sakit</judul_id>
+			<dekiru>
+				<item>
+					<jp>困った状況とそのときの心情について、具体的に説明したり表現したりすることができる。</jp>
+					<en>Precisely explain a troubling situation and express a sentiment felt then.</en>
+					<id>Dapat menjelaskan situasi yang menyusahkan dengan tepat dan mengungkapkan perasaan yang dirasakan saat itu.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="21">
+			<nomor>21</nomor>
+			<kategori>困った状況を説明する</kategori>
+			<kategori_en>Explain a Troubling Situation</kategori_en>
+			<kategori_id>Menjelaskan Situasi yang Menyusahkan</kategori_id>
+			<judul>友だちのお見舞い</judul>
+			<judul_en>Visiting a sick friend</judul_en>
+			<judul_id>Menjenguk Teman yang Sakit</judul_id>
+			<dekiru>
+				<item>
+					<jp>困った状況とそのときの心情について、具体的に説明したり表現したりすることができる。</jp>
+					<en>Precisely explain a troubling situation and express a sentiment felt then.</en>
+					<id>Dapat menjelaskan situasi yang menyusahkan dengan tepat dan mengungkapkan perasaan yang dirasakan saat itu.</id>
+				</item>
+			</dekiru>
+		</bab_group>
+
+	</can_do_list>
+	
+</buku_try_n4>
