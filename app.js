@@ -454,7 +454,7 @@ function renderContentsSection() {
     
     
     // Can Do List Quick Access
-    html += '<div class="quick-section-title" style="margin-top: 2rem;">N3「できること」リスト</div>';
+    html += '<div class="quick-section-title" style="margin-top: 2rem;">N4「できること」リスト</div>';
     html += `
         <div class="bab-card-home" onclick="showSection('can-do-list')" style="border-left-color: #059669;">
             <div class="bab-number-home" style="background: #059669;">✓</div>
@@ -465,9 +465,9 @@ function renderContentsSection() {
                     <span class="translation-id">Daftar Kemampuan</span>
                 </div>
                 <div class="bab-title-home">
-                    <span class="sentence-jp">N3「できること」リスト</span>
-                    <span class="translation-en">N2 Can Do List</span>
-                    <span class="translation-id">Daftar Kemampuan N2</span>
+                    <span class="sentence-jp">N4「できること」リスト</span>
+                    <span class="translation-en">N4 Can Do List</span>
+                    <span class="translation-id">Daftar Kemampuan N4</span>
                 </div>
             </div>
             <span class="bab-page-home">p.227-231</span>
@@ -1265,7 +1265,7 @@ function renderCanDoList() {
         <section id="can-do-list" class="hidden">
             <div class="section-header">
                 <div class="bab-header-category">
-                    <span class="sentence-jp">N2「できること」リスト</span>
+                    <span class="sentence-jp">N4「できること」リスト</span>
                     <span class="translation-en">N2 Can Do List</span>
                     <span class="translation-id">Daftar Kemampuan N2</span>
                 </div>
