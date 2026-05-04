@@ -1266,13 +1266,13 @@ function renderCanDoList() {
             <div class="section-header">
                 <div class="bab-header-category">
                     <span class="sentence-jp">N4「できること」リスト</span>
-                    <span class="translation-en">N2 Can Do List</span>
-                    <span class="translation-id">Daftar Kemampuan N2</span>
+                    <span class="translation-en">N4 Can Do List</span>
+                    <span class="translation-id">Daftar Kemampuan N4</span>
                 </div>
                 <div class="bab-header-title">
                     <h1 class="bab-header-text"><span class="sentence-jp">できることリスト</span></h1>
-                    <span class="bab-header-en">What You Can Do with N2 Grammar</span>
-                    <span class="translation-id">Apa yang Dapat Anda Lakukan dengan Tata Bahasa N2</span>
+                    <span class="bab-header-en">What You Can Do with N4 Grammar</span>
+                    <span class="translation-id">Apa yang Dapat Anda Lakukan dengan Tata Bahasa N4</span>
                 </div>
                 <p class="page-number" style="text-align: center; color: #6b7280; margin-top: 0.5rem;">p.227-231</p>
             </div>
