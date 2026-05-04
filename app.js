@@ -1274,7 +1274,7 @@ function renderCanDoList() {
                     <span class="bab-header-en">What You Can Do with N4 Grammar</span>
                     <span class="translation-id">Apa yang Dapat Anda Lakukan dengan Tata Bahasa N4</span>
                 </div>
-                <p class="page-number" style="text-align: center; color: #6b7280; margin-top: 0.5rem;">p.227-231</p>
+                <p class="page-number" style="text-align: center; color: #6b7280; margin-top: 0.5rem;">p.205-207</p>
             </div>
 
             <div class="can-do-intro">
